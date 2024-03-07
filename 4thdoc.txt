@@ -1,0 +1,6 @@
+git add 4thdoc.txt
+git status
+git add .
+git commit -m "Saved Commands"
+git log
+git push -u origin master
